@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vsi:home|Door43 (vsi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vsi|d43-vsi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vsi/archive/master.zip|d43-vsi.zip]]
+
+**Recent Changes**
+{{changes>ns = vsi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vsi|Ethnologue data]]
+
